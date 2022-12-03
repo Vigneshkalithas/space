@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -32,7 +32,29 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+} */
+
+:root {
+
+  /* Colors: */
+  --unnamed-color-707070: #707070;
+  --unnamed-color-ff0000: #FF0000;
+  --unnamed-color-444444: #444444;
+  --unnamed-color-000000: #000000;
+  --unnamed-color-00bcad: #00BCAD;
+  --unnamed-color-29aa9b: #29AA9B;
+  --unnamed-color-ffffff: #FFFFFF;
+  --unnamed-color-30d5c8: #30D5C8;
+  --unnamed-color-eefffc: #EEFFFC;
+  --unnamed-color-186b64: #186B64;
+  --bg--color: #F2F3F6;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
 }
